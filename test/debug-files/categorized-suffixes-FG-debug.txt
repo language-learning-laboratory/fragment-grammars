@@ -1,0 +1,10 @@
+Input grammar: grammars/FG.txt
+Test Sentence File: test-sets/categorized-suffixes.txt
+Output File Prefix: categorized-suffixes-FG-results.txt
+Seeded?: true
+Debug file: categorized-suffixes-FG-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Seeded Test Sentences.
+Loading Grammar: 
+Scoring tests.

@@ -1,0 +1,10 @@
+Input grammar: grammars/MDPCFG.txt
+Test Sentence File: test-sets/categorized-suffixes.txt
+Output File Prefix: categorized-suffixes-MDPCFG-results.txt
+Seeded?: true
+Debug file: categorized-suffixes-MDPCFG-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Seeded Test Sentences.
+Loading Grammar: 
+Scoring tests.

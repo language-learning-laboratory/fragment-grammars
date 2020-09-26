@@ -1,0 +1,1 @@
+/Users/timo/Projects/fragment-grammar/bin/runpcfg -input-grammar grammars/MDPCFG.txt -test-sentences test-sets/generalization-words.txt -outfile generalization-words-MDPCFG-results.txt  -debug-file generalization-words-MDPCFG-debug.txt -start-symbol START

@@ -1,0 +1,9 @@
+Input grammar: grammars/DOP1.txt
+Test Sentence File: test-sets/categorized-suffixes.txt
+Output File Prefix: categorized-suffixes-DOP1-results.txt
+Seeded?: true
+Debug file: categorized-suffixes-DOP1-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Seeded Test Sentences.
+Loading Grammar: 

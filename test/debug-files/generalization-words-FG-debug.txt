@@ -1,0 +1,414 @@
+Input grammar: grammars/FG.txt
+Test Sentence File: test-sets/generalization-words.txt
+Output File Prefix: generalization-words-FG-results.txt
+Seeded?: false
+Debug file: generalization-words-FG-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Loading Grammar: 
+Scoring tests.
+Grammar:
+	grammars/FG.txt does not parse sentence:
+	 on er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 lower able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 erect able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with en
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 twenty ish
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with ery
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 in ness
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 about ness
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 open able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 swot ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 all an
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 at er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 warm able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 less ive
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 of er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 first ling
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 no ology
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 up ic
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with ness
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 bet ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 of er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 strum itis
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 at er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 let ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 common able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 by er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 very ly able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 flit ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 minor ess
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 hundred al
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 from age
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 of er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 at ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 join ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 at er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 stun ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 by er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 no ster
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 do ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with al
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 clean able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 swat ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 other ward
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 elect able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 null able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 manifest able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 at en
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 quack hood
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 prior ess
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 scale wise
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 five ish
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 rule ship
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 fret ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 superior ess
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 after ness
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 with er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 to ity
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 chary ly able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 correct able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 twelve ish
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 five or
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 in er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 own able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 over proof
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 on ion
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 work wise
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 battle ship
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 judge ship
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 twenty ic
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 on er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 under er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 round ly able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 in er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 clear able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 tip most
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 patent able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 subject able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 dab itis
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 on er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 frequent able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 exact able
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 on er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 own age
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 to ist
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 much ee
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 from er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 drop wise
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 million ism
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 trot ty
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 fro ster
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 other some
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 five ent
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 on er
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 own some
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 own hood
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 five ty ic
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 other ism
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 guide ship
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 of er
+	
+	from start symbol: START

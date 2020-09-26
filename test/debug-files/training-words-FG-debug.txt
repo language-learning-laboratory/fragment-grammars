@@ -1,0 +1,34 @@
+Input grammar: grammars/FG.txt
+Test Sentence File: test-sets/training-words.txt
+Output File Prefix: training-words-FG-results.txt
+Seeded?: false
+Debug file: training-words-FG-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Loading Grammar: 
+Scoring tests.
+Grammar:
+	grammars/FG.txt does not parse sentence:
+	 psyche  ology ist
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 eccentr ic  ity
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 argue ment ate  ive
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 miner  al
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 gen al  ity
+	
+	from start symbol: STARTGrammar:
+	grammars/FG.txt does not parse sentence:
+	 idolater  ous
+	
+	from start symbol: START

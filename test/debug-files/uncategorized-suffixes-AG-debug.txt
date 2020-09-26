@@ -1,0 +1,9 @@
+Input grammar: grammars/AG.txt
+Test Sentence File: test-sets/uncategorized-suffixes.txt
+Output File Prefix: uncategorized-suffixes-AG-results.txt
+Seeded?: false
+Debug file: uncategorized-suffixes-AG-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Loading Grammar: 
+Scoring tests.

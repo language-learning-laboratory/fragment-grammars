@@ -1,0 +1,6 @@
+*.cmi
+*.cmx
+*.o
+bin/bestpcfg
+bin/forwardsamplepcfg
+bin/runpcfg

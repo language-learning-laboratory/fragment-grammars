@@ -1,0 +1,9 @@
+Input grammar: grammars/DOP1.txt
+Test Sentence File: test-sets/uncategorized-suffixes.txt
+Output File Prefix: uncategorized-suffixes-DOP1-results.txt
+Seeded?: false
+Debug file: uncategorized-suffixes-DOP1-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Loading Grammar: 
+Scoring tests.

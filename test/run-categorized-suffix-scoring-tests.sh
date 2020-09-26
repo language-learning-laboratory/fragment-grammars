@@ -1,0 +1,1 @@
+/Users/timo/Projects/fragment-grammar/bin/runpcfg -input-grammar grammars/MDPCFG.txt -test-sentences test-sets/categorized-suffixes.txt -outfile categorized-suffixes-MDPCFG-results.txt  -debug-file categorized-suffixes-MDPCFG-debug.txt -seeded -start-symbol START

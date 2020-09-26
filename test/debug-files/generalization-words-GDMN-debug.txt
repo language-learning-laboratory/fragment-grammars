@@ -1,0 +1,8 @@
+Input grammar: /Users/timo/Projects/fragment-grammar/Simulations/Derivational2/Stages/derivational2.GDMN-gram.txt
+Test Sentence File: /Users/timo/Documents/writing/2013-feb-01.cogsci.productivityexperiments/analyses/generalization-corpus-frequency/test-words.txt
+Output File Prefix: /Users/timo/Documents/writing/2013-feb-01.cogsci.productivityexperiments/analyses/generalization-corpus-frequency/test-words-GDMN-results.txt
+Seeded?: false
+Debug file: /Users/timo/Documents/writing/2013-feb-01.cogsci.productivityexperiments/analyses/generalization-corpus-frequency/test-words-results-GDMN-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Loading Grammar: 

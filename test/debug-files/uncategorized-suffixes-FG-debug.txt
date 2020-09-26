@@ -1,0 +1,9 @@
+Input grammar: grammars/FG.txt
+Test Sentence File: test-sets/uncategorized-suffixes.txt
+Output File Prefix: uncategorized-suffixes-FG-results.txt
+Seeded?: false
+Debug file: uncategorized-suffixes-FG-debug.txt
+Start Symbol: START
+Loading Test Sentences.
+Loading Grammar: 
+Scoring tests.
